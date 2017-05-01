@@ -15,7 +15,7 @@ Detailed, but short description of the general LoRaWAN architecture in Wiki page
   $ [sudo] npm install lorawan-js
 ```
 
-##Example
+## Example
 
 ### Simple LoRaWAN network server
 
@@ -112,7 +112,7 @@ lwServer.on('pushdata_rxpk', (message, clientInfo) => {
 * Activation by Personalization (ABP) example
 
 
-##Filing issues
+## Filing issues
 
 If something isn't working like you think it should, please read the documentation, especially the Getting Started guides. If you have a question not covered in the documentation or want to report a bug, the best way to ensure it gets addressed is to file it in the appropriate issues tracker. If we can't reproduce the issue, we can't fix it. Please list the exact steps required to reproduce the issue. Include versions of your OS, Node.js, etc. Include relevant logs or sample code.
 
