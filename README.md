@@ -1,6 +1,8 @@
-# LoRaWAN JS Server – fast, minimalist open-source library for node that allows you to create LoRaWAN network-server.
+LoRaWAN JS Server – fast, minimalist open-source library for node that allows you to create LoRaWAN network-server.
 
-### Features
+## Features
+
+
 
 ## Installation
 ``` bash
@@ -8,6 +10,7 @@
 ```
 
 ##Example
+
 ### Simple LoRaWAN network server
 ### LoRaWAN node package decryption
 
@@ -32,6 +35,7 @@
 
 
 ##Filing issues
+
 If something isn't working like you think it should, please read the documentation, especially the Getting Started guides. If you'd like to discuss with someone, pop into [our slack channel](https://ioberry.slack.com/messages/C57QC10TH) - ask your question there.
 
 You might find a security issue: in that case, email at hello@ioberry.com.
