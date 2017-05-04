@@ -1,0 +1,27 @@
+{
+  "name": "lorawan-js",
+  "version": "0.1.1",
+  "description": "Library to create LoRaWAN network-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioberry/LoraWAN-Server.git"
+  },
+  "keywords": [
+    "lora",
+    "lorawan",
+    "iot"
+  ],
+  "author": "Dmitry Sukhamera, <suhamera@ioberry.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ioberry/LoraWAN-Server/issues"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.0"
+  }
+  "homepage": "https://github.com/ioberry/LoraWAN-Server"
+}

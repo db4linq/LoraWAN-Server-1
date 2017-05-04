@@ -122,9 +122,9 @@ You might find a security issue: in that case, email at hello@ioberry.com.
 
 Anyone can help make this project better. If you want to contribute, but don't know where to get started, this is for you:
 * Join the discussions, pop into [our slack channel](https://ioberry.slack.com/messages/C57QC10TH)
-* Report bugs or make feature-requests by opening an issue at https://github.com/ioberry/LoraWAN-Server/issues
-* Fix issues or improve documentation by creating pull-requests
-* Submit articles and guides which are also part of the documentation.
+* Report bugs or make feature-requests by [opening an issue](https://github.com/ioberry/LoraWAN-Server/issues)
+* Fix issues or improve documentation by [creating pull-requests](https://github.com/ioberry/LoraWAN-Server/pulls)
+* Submit articles and guides which are also part of the documentation
 
 
 ## LICENSE - "MIT License"
